@@ -1,0 +1,4 @@
+{"name":"Cavern Lair",
+ "description": "Your eyes adjust to the light as you get closer, almost blinding you when you reach the entrance. Once inside, you look to your left and see a chained prisoner who is signalling to you. You make your way over and realize that the prisoner is not signaling for you to come over, but to run. This is where your quest ends. The beast who lives here has knocked you out from behind, killing you instantly. Game over. Type 'restart' to return to the title screen.",
+ "next": {"restart":1}
+}

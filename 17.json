@@ -1,0 +1,4 @@
+{"name":"South of the Crash Site - Town",
+ "description": "You immediately seek assistance in finding supplies to fix your ship, but the leader of the town tells you that they are distraught over a recent kidnapping of a villager by an awful creature that lives nearby. She tells you that if you help them recover this villager, and slay the creature, they will do anything you need to help fix the ship. You agree. The first step is to find a lost key that unlocks the armory. Head back north to return to the crash site.",
+ "next": {"n":18, "restart":1}
+}

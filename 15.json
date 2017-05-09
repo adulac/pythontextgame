@@ -1,0 +1,4 @@
+{"name":"Inside the cavern",
+ "description": "You shout out - HELLO! Anybody?! It is almost as if you are losing your mind, and shout in desperation. However, this was a bad move! A person appears in the distance where the light is, and you are not welcome in his home. He sprints to you before you can react and attacks without hesitation. Game over. Type 'restart' to return to the title screen.",
+ "next": {"restart":1}
+}

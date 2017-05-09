@@ -1,0 +1,4 @@
+{"name":"West of the Crash Site - Open Terrain",
+ "description": "This planet is a stange place. It is much like your home planet, but has an uncomfortable vibe to it. You can keep pressing on towards the west, or head back to the crash site to the east.",
+ "next": {"w":7, "e":3, "restart":1}
+}

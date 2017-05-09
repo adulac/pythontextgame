@@ -1,0 +1,4 @@
+{"name":"Inside the cavern",
+ "description": "The cavern is alive with the sounds of the animals that live here. There appears to be a little bit of light to the north, and the entrance which leads to the crash site is to the south.",
+ "next": {"n":12, "s":18, "restart":1}
+}

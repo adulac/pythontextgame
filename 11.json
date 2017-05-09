@@ -1,0 +1,4 @@
+{"name":"Crash site",
+ "description": "You pick up the rodent, but it is just an ordinary rodent. You see mountains to the north, it appears to be flat to the south, and the terrain is moderate to the west and east. Which direction do you choose to go?",
+ "next": {"n":5, "s":16, "w":6, "e":8, "restart":1}
+}

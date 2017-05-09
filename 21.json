@@ -1,0 +1,6 @@
+{"name":"Crash site",
+ "description": "The town is to the south.",
+ "next": {"s":22, "restart":1},
+ "npc": "There is nothing around but your damaged ship.",
+ "inventory": "Inventory: Shiny Key"
+}

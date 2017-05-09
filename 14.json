@@ -1,0 +1,4 @@
+{"name":"Inside the cavern",
+ "description": "You shout out - 'HELLO!' but you hear nothing but the echo of your own voice. This makes you feel very alone and vulnerable. There appears to be a little bit of light to the north, and the entrance is to the south.",
+ "next": {"n":12, "s":5, "interact":15, "restart":1}
+}

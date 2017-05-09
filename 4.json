@@ -1,0 +1,4 @@
+{"name":"Game over.",
+ "description": "You rolled over and gave up. You never reach it home. Your lack of initiative got the best of you, and you did not survive the elements, eventually dying of starvation. Game over. \nType 'restart' to return to the title screen.",
+ "next": {"restart":1}
+}

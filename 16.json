@@ -1,0 +1,5 @@
+{"name":"South of the Crash Site - Town",
+ "description": "The town is of moderate size, and seems reasonably advanced and self-sustainable. You wonder if they have the supplies you need to fix you ship. Your crash site remains to the north.",
+ "next": {"n":3, "interact":17, "restart":1},
+ "npc": "There is a crowd of people who notice you, lead by who you assume to be their leader."
+}

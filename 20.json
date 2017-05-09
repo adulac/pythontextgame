@@ -1,0 +1,5 @@
+{"name":"East of the Crash Site - Open Terrain",
+ "description": "You dig through the dirt at your feet and find the key! Return back to town to unlock the armory. Your crash site is to the west.",
+ "next": {"w":21, "restart":1},
+ "inventory": "Inventory: Shiny Key"
+}

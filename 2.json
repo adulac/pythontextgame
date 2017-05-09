@@ -1,0 +1,4 @@
+{"name":"Crash Site",
+ "description": "The crash has disoriented you, but you have your wits about you. What do you do now? Do you decide to explore the surrounding area?",
+ "next": {"yes":3, "no":4, "restart":1}
+}

@@ -1,0 +1,5 @@
+{"name":"North of the Crash Site - Mountains",
+ "description": "The mountains are rough but you still have strength in you. A cavern reveals itself over the ridge. Are you brave enough to explore it?",
+ "next": {"yes":26, "no":24, "restart":1},
+ "inventory": "Inventory: Sword and Shield"
+}

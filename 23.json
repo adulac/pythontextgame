@@ -1,0 +1,6 @@
+{"name":"South of the Crash Site - Town",
+ "description": "Your crash site remains to the north.",
+ "next": {"n":24, "restart":1},
+ "npc": "You had the key to the leader.'Thank you, stranger!', the leader exclaims. She takes the key back to the armory, and returns with a sword and shield. 'Once you have defeated the creature and have returned our friend, you may have whatever you need to fix your ship so you can return home.'",
+ "inventory": "Inventory: Sword and Shield"
+}

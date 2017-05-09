@@ -1,0 +1,5 @@
+{"name":"Returned to the crash site.",
+ "description": "You've played it safe. The cavern looked too dangerous to go in with no resources.\nThe mountains you returned from are to the north, it appears to be flat to the south, and moderate terrain to both the west and the east.\nWhich direction do you choose to go?",
+ "next": {"n":5, "s":16, "w":6, "e":8, "interact":11, "restart":1},
+ "npc": "A strange rondent runs by your feet." 
+}

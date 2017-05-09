@@ -1,0 +1,4 @@
+{"name":"North of the Crash Site - Mountains",
+ "description": "The mountains are rough but you still have strength in you. A cavern reveals itself over the ridge. Are you brave enough to explore it?",
+ "next": {"yes":9, "no":10, "restart":1}
+}

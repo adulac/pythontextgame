@@ -1,0 +1,4 @@
+{"name":"East of the Crash Site - Open Terrain",
+ "description": "The trek east has led you to a vast openness, but you see nothing promising. Your crash site is to the west.",
+ "next": {"w":3, "restart":1}
+}
