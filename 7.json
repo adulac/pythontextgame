@@ -1,4 +1,4 @@
 {"name":"West of the Crash Site",
- "description": "The sun begins to set. You can continue west until it is so dark that you can no longer see! You think it is best to more forward in hopes of finding resources or anything useful, but the complete darkless has taken advantage of you and fall into a valley that you could not detect. The fall has left you immobile, causing you to eventually die. Game over. Type 'restart' to return to the title screen.",
+ "description": "The sun begins to set. You can continue west until it is so dark that you can no longer see! You think it is best to keep moving forward in hopes of finding resources or anything useful, but the complete darkless has taken advantage of you and fall into a valley that you could not detect. The fall has left you immobile, causing you to eventually die. Game over. Type 'restart' to return to the title screen.",
  "next": {"restart":1}
 }

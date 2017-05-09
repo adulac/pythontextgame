@@ -1,4 +1,4 @@
 {"name":"Crashed - A Short Python Text Adventure Game.\n\nType 'help' at any point to see a list of possible inputs. You are able to restart at any point by typing 'restart'.",
- "description": "You crash on a mysterious planet while on your way home from a year long mission. The ship is surprisingly in decent condition, but you need to fix it before you can take off and head back home. Your objective is to find supplies to fix the ship so you can head back home.\n\nType start to begin the game.",
+ "description": "You crash on a mysterious planet while on your way home from a year long mission. The ship is surprisingly in decent condition, but you need to fix it before you can take off and head back home. Your objective is to find supplies in order to fix the ship.\n\nType start to begin the game.",
  "next": {"start":2}
 }

@@ -1,4 +1,4 @@
 {"name":"You win!",
  "description": "You have slain the creature and saved the kidnapped villager! The town leader has kept up their end of the bargain and gives you the necessary supplies to fix your ship. Thank you for playing! Type restart to return to the title screen.",
- "next": {"restart":1},
+ "next": {"restart":1}
 }

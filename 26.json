@@ -1,5 +1,5 @@
 {"name":"Inside the cavern",
  "description": "The cavern is dark and cold. There appears to be a little bit of light to the north, and the entrance which leads to the crash site is to the south. The creature must reside in the lair ahead.",
- "next": {"n":27, "s":24, "interact":14, "restart":1},
+ "next": {"n":27, "s":24, "interact":15, "restart":1},
  "inventory": "Inventory: Sword and Shield"
 }
