@@ -1,5 +1,5 @@
 {"name":"East of the Crash Site - Open Terrain",
  "description": "The trek east has led you to the vast openness once again.  Your crash site is to the west.",
- "next": {"w":18, "interact":20, "restart":1},
+ "next": {"w":18, "i":20, "restart":1},
  "npc": "The soil at your feet seems out of place."
 }

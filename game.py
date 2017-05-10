@@ -7,15 +7,6 @@ import json
 
 def clear_screen():
     os.system('cls' if os.name=='nt' else 'clear')   
-    
-def get_scene(id):
-    ret = None
-    with open(str(id)+".json", "r") as f:
-        jsontext = f.read()
-        d = json.loads(jsontext)
-        d['id'] = id
-        ret = Scene(**d)
-    return ret
 
 class Scene():
     def __init__(self, id=0, name="", description="", next={}, npc="", inventory=""):
@@ -31,6 +22,15 @@ class Scene():
             return self.next[direction]
         else:
             return None    
+            
+def get_scene(id):
+    pathname = os.path.join("scenes", str(id)+".json")
+    with open(pathname) as fh:
+        jsontext = fh.read()
+        d = json.loads(jsontext)
+        d['id'] = id
+        s = Scene(**d)
+    return s
 
 class Game(cmd.Cmd):
     def __init__(self):
@@ -92,9 +92,9 @@ class Game(cmd.Cmd):
         """no"""
         self.move("no")
         
-    def do_interact(self, args):
+    def do_i(self, args):
         """Interact"""
-        self.move("interact")      
+        self.move("i")    
         
     def do_quit(self, args):
         """Quits the game"""

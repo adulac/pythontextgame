@@ -1,6 +1,6 @@
 {"name": "Cavern Lair",
  "description": "Your eyes adjust to the light as you get closer, almost blinding you when you reach the entrance. Once inside, you look to your left and see a chained prisoner who is signalling to you. You have a mission though, and it is to slay the creature.",
- "next": {"interact":28, "restart":1},
+ "next": {"i":28, "restart":1},
  "npc": "The creature is only a couple feet in front of you and it hasn't noticed you yet.",
  "inventory": "Inventory: Sword and Shield"
 }

@@ -1,0 +1,4 @@
+{"name":"You win!",
+ "description": "After a long and savage battle you finally kill the creature and bring the wounded villager back to town. After a hero’s welcome and great feast the villagers help you repair your ship. You return to space to continue your journey home. Thank you for playing! Type 'restart' to return to the title screen.",
+ "next": {"restart":1}
+}

@@ -1,6 +1,6 @@
 {"name":"South of the Crash Site - Town",
  "description": "Your crash site remains to the north.",
- "next": {"n":21, "interact":23, "restart":1},
+ "next": {"n":21, "i":23, "restart":1},
  "npc": "The leader runs to you in anticipation as you make your way into the town - 'What have you found?!'",
  "inventory": "Inventory: Shiny Key"
 }

@@ -1,6 +1,6 @@
 {"name":"Crash site",
  "description": "You see mountains to the north, and the terrain is moderate to the west. Which direction do you choose to go?",
- "next": {"n":25, "w":7, "restart":1},
+ "next": {"n":26, "w":7, "restart":1},
  "npc": "There is nothing around but your damaged ship.",
  "inventory": "Inventory: Sword and Shield"
 }
